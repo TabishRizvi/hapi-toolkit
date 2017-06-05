@@ -1,0 +1,24 @@
+{
+  "name": "hapi-toolkit",
+  "version": "1.0.0",
+  "description": "A hapi plugin for additional covenience methods for route configuration",
+  "main": "lib/index.js",
+  "keywords": [
+    "route",
+    "hapi",
+    "meta",
+    "info",
+    "prefix",
+    "alias"
+  ],
+  "author": "Tabish Rizvi <sayyidtabish@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TabishRizvi/hapi-toolkit/issues"
+  },
+  "homepage": "https://github.com/TabishRizvi/hapi-toolkit#readme",
+  "dependencies": {
+    "hoek": "^4.1.1",
+    "underscore": "^1.8.3"
+  }
+}
