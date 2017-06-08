@@ -1,6 +1,6 @@
 {
   "name": "hapi-toolkit",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A hapi plugin for additional covenience methods for route configuration",
   "main": "lib/index.js",
   "keywords": [
